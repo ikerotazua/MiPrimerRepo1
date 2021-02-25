@@ -1,2 +1,2 @@
-# Mi Primer Repo 1 va ha ser este
+# Mi Primer Repo 1 va a ser este
 hola otazua
